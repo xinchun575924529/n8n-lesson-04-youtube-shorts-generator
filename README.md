@@ -87,3 +87,7 @@ n8n-lesson-04-youtube-shorts-generator/
 - 模板公开页：[n8n.io/workflows/16419](https://n8n.io/workflows/16419/)
 - REST API 拉原始模板 JSON：`https://api.n8n.io/api/workflows/templates/16419`（返回 `{id, name, workflow}` 包装，导入前需解包）
 - **累计挖出 11 个模板坑 + 2 个工具层坑**（n8n Code 的 `e.httpCode` / CLI 的 broker 端口冲突），全部收录于 [第五讲](docs/05-pitfalls-defense.md)
+
+---
+
+> 🚀 本仓库由 n8n 教案工厂自动构建：L2 三关验证（2026-09-16）→ L3 课程包打包上线（2026-09-17）。
